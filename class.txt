@@ -5,10 +5,17 @@ Cyan
 Yellow
 Charcoal
 Khaki
+git 
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
 Coral
 Silver
 Fuchsia
 Purple
 Brown
 Red
-Dark blue
